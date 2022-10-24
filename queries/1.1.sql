@@ -1,0 +1,1 @@
+Select Count(PostId) as Count_Post from blog.post
